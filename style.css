@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+}
+.container{
+    display: flex;
+}
+.border{
+    border-left: 5px solid orange;
+    padding-left: 10px;
+}
+.color-orange{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.my-new{
+    font-size:15px;
+    padding-left: 25px;
+    margin-bottom: 40px;
+}
+.dive{
+    width: 50%;
+    padding: 5%;
+}
+.dive img{
+    width: 80%;
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(red,orange);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.experience-shadow{
+    width: 300px;
+    height: 400px;
+    border-bottom: 50px;
+    margin-left:5%;
+    margin-right:5%;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow:10px 10px 40px gray;
+    border-radius: 20px;
+}
+.drop-shadow{
+    width: 300px;
+    height: 400px;
+    border-bottom: 50px;
+    margin-left:5%;
+    margin-right:5%;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow:10px 10px 40px black;
+    background-color: #FFF0F5;
+    border-radius: 20px;
+}
+.antiq-shadow{
+    width: 300px;
+    height: 400px;
+    border-bottom: 50px;
+    margin-left:5%;
+    margin-right:5%;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow:10px 10px 40px gray;
+    background-color: #FAEDB7;
+    border-radius: 20px;
+}
+.limit{
+    padding-left: 50px;
+}
+.dev{
+    padding-left: 48px;
+}
+.pic{
+    width:90%;
+}
+.middle{
+    text-align: center;
+    font-size: 50px;
+}
+.hig{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    margin:20px;
+}
+.my-new{
+    font-size:15px;
+    padding-left: 25px;
+    margin-bottom: 40px;
+}
+.picture{
+    width: 50%;
+    margin-left: 25%;
+}
+.covid{
+    font-size:25px;
+}
+footer{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    background-color: black;
+    background-position: bottom;
+}
+.red{
+    color: red;
+}
